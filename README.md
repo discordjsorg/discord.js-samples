@@ -35,4 +35,7 @@
 Sample | Take A Look At Some Codes | If we took your code we will give credits 
 
 ## Credits
-`Please make sure to join the bot developers server atleast to appreciate their work!`
+**`Please make sure to join the bot developers server atleast to appreciate their work!`**
+
+## About
+**This is not the official Discord.js Github. We are 3 developers trying to make it easier for everyone DYNOMYT & elite_ & PixelJayden. Its simple just take some examples from the folders we have added if you'd like to copy the code just add credits to the creator || What happens if i dont? || You can get sued by the people who coded the bot. We will be posting bots daily/weekly depends if we have tested the bot OR not, we will be adding more bots such as giveaway bots, requirments gw bot etc..**
