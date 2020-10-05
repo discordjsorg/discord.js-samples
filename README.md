@@ -20,7 +20,7 @@
 <p align="center">
   <a href="#about">About</a>
   •
-  <a href="#features">Features</a>
+  <a href="#config">Config/.env</a>
   •
   <a href="#installation">Installation</a>
   •
@@ -42,3 +42,23 @@ Sample | Take A Look At Some Codes | If we took your code we will give credits
 
 ## Installation
 **If you'd like to use some of our/other people bots there will be a node_modules folder check it and install the modules in the folder otherwise you will need to run the bot a ton of times till you install of the node moudles [Join Our Discord](https://discord.gg/eb4QFfF), Make Sure To Read the <a href="#Credits">Credits</a>**
+
+## Config
+**For Config such as [Token], [API's]
+
+If there is no [.env | config.json | config.js] File Add This!
+
+[Add a .env File](https://www.npmjs.com/package/dotenv)
+
+Then Type The Following : 
+
+```{
+      "token": "TOKEN HERE"
+   }```
+   
+   What is theres commands like cat that needs a api??
+   
+```{
+      "token": "TOKEN HERE"
+      "catapi": "API KEY HERE
+   }```
