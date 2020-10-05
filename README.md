@@ -54,11 +54,11 @@ Then Type The Following :
 
 ```{
       "token": "TOKEN HERE"
-   }```
+   }
    
    What is theres commands like cat that needs a api??
    
-```{
+{
       "token": "TOKEN HERE"
       "catapi": "API KEY HERE
-   }```
+   }```**
