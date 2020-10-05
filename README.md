@@ -52,7 +52,8 @@ If there is no [.env | config.json | config.js] File Add This!
 
 Then Type The Following : 
 
-```{
+```
+{
       "token": "TOKEN HERE"
    }
    
@@ -61,4 +62,7 @@ Then Type The Following :
 {
       "token": "TOKEN HERE"
       "catapi": "API KEY HERE
-   }```**
+   }
+ ```
+ **
+
