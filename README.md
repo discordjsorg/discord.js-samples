@@ -50,19 +50,21 @@ If there is no [.env | config.json | config.js] File Add This!
 
 [Add a .env File](https://www.npmjs.com/package/dotenv)
 
-Then Type The Following : 
+Then Type The Following : **
 
 ```
 {
       "token": "TOKEN HERE"
    }
+``` 
    
-   What is theres commands like cat that needs a api??
+   **What is theres commands like cat that needs a api??**
    
+```
 {
       "token": "TOKEN HERE"
       "catapi": "API KEY HERE
    }
  ```
- **
+
 
